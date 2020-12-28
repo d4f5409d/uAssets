@@ -205,3 +205,15 @@ frogogo.ru##+js(aopw, ADMITAD)
 ! hd21.com analytics
 ||cnt.hd21.com^
 ||hd21.com/ajax/track?
+
+! microsoft teams diagnostics
+||teams.microsoft.com/diagnostics^
+||teams.nel.measure.office.net/api/report^
+
+! spotify socialgraph
+||spclient.wg.spotify.com/socialgraph^
+
+! discord tracking methods
+||discord.com/api/v8/science^
+||discord.com/api/v8/track^
+
